@@ -7,19 +7,19 @@ Steps Completed:
 Installed Python 3.10 in Anaconda (because TensorFlow/Keras/Mediapipe work best with 3.8–3.11).
 
 Created a virtual environment:
-conda create -n signlang python=3.10
-conda activate signlang
+'''conda create -n signlang python=3.10
+conda activate signlang'''
 
 
 Installed required libraries:
-pip install opencv-python tensorflow keras mediapipe numpy matplotlib
+'''pip install opencv-python tensorflow keras mediapipe numpy matplotlib'''
 
 
 Verified libraries inside the environment:
 
-import cv2\n
-import tensorflow as tf\n
-import keras\n
-import mediapipe as mp\n
-import numpy as np\n
-import matplotlib.pyplot as plt\n
+'''import cv2
+import tensorflow as tf
+import keras
+import mediapipe as mp
+import numpy as np
+import matplotlib.pyplot as plt'''
