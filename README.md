@@ -17,9 +17,9 @@ pip install opencv-python tensorflow keras mediapipe numpy matplotlib
 
 Verified libraries inside the environment:
 
-import cv2
-import tensorflow as tf
-import keras
-import mediapipe as mp
-import numpy as np
-import matplotlib.pyplot as plt
+import cv2\n
+import tensorflow as tf\n
+import keras\n
+import mediapipe as mp\n
+import numpy as np\n
+import matplotlib.pyplot as plt\n
